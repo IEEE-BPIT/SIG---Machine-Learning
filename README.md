@@ -16,10 +16,10 @@ To participate in this SIG, you will need:
 * Python 3 installed on your computer/Google Colab account
 
 # Feedback
-We're always looking for ways to improve our SIG and make it more valuable for participants. If you have any feedback or suggestions, please feel free to share them with us at 
+We're always looking for ways to improve our SIG and make it more valuable for participants. If you have any feedback or suggestions, please feel free to share them with us at (notion link).
 
 # Contact
-If you have any questions or concerns about the SIG, please feel free to contact us at.
+If you have any questions or concerns about the SIG, please feel free to contact us at (notion link).
 
 We're excited to bring you this SIG, and we hope to see you there!
 
